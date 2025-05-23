@@ -2,5 +2,8 @@
 title: Welcome to Quartz
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+```img-gallery
+path: content/Media/4collab
+type: horizontal
+```
+
