@@ -1,10 +1,3 @@
-# Starbucks UX Research
-
-I am honestly just testing if this is working
-```img-gallery
-path: content/Media/4collab
-type: horizontal
-```
-
+## A UX deep dive to improve adoption and satisfaction in the Starbucks app
 
 ![[FinalUXR_fin.pdf]]
