@@ -1,7 +1,3 @@
----
-sidebarIndex: "1"
----
-
 ## **An experimental collaborative experience powered by movement, awareness and communication**
 ![](https://youtu.be/BMieN3ZsUHw)
 
